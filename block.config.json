@@ -1,0 +1,8 @@
+{
+  "name": "pck3",
+  "type": "appBlock",
+  "source": {
+    "https": "https://github.com/Digambaran/pck3",
+    "ssh": "git@github.com:Digambaran/pck3.git"
+  }
+}
